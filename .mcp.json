@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "jabula-analytics": {
+      "type": "http",
+      "url": "http://49.13.34.78:3001/mcp",
+      "headers": {
+        "Authorization": "Bearer 7df677df3d12076e78e14ee67452ece62108238a62753b1fc6c6c6a36dbf557e"
+      }
+    }
+  }
+}
